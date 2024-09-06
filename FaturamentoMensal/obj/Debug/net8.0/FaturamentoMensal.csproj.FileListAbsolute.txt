@@ -1,0 +1,14 @@
+C:\dev\TargetSistemaTest\FaturamentoMensal\bin\Debug\net8.0\FaturamentoMensal.exe
+C:\dev\TargetSistemaTest\FaturamentoMensal\bin\Debug\net8.0\FaturamentoMensal.deps.json
+C:\dev\TargetSistemaTest\FaturamentoMensal\bin\Debug\net8.0\FaturamentoMensal.runtimeconfig.json
+C:\dev\TargetSistemaTest\FaturamentoMensal\bin\Debug\net8.0\FaturamentoMensal.dll
+C:\dev\TargetSistemaTest\FaturamentoMensal\bin\Debug\net8.0\FaturamentoMensal.pdb
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\FaturamentoMensal.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\FaturamentoMensal.AssemblyInfoInputs.cache
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\FaturamentoMensal.AssemblyInfo.cs
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\FaturamentoMensal.csproj.CoreCompileInputs.cache
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\FaturamentoMensal.dll
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\refint\FaturamentoMensal.dll
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\FaturamentoMensal.pdb
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\FaturamentoMensal.genruntimeconfig.cache
+C:\dev\TargetSistemaTest\FaturamentoMensal\obj\Debug\net8.0\ref\FaturamentoMensal.dll

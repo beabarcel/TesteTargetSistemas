@@ -1,0 +1,14 @@
+C:\dev\TargetSistemaTest\StringInvertida\bin\Debug\net8.0\StringInvertida.exe
+C:\dev\TargetSistemaTest\StringInvertida\bin\Debug\net8.0\StringInvertida.deps.json
+C:\dev\TargetSistemaTest\StringInvertida\bin\Debug\net8.0\StringInvertida.runtimeconfig.json
+C:\dev\TargetSistemaTest\StringInvertida\bin\Debug\net8.0\StringInvertida.dll
+C:\dev\TargetSistemaTest\StringInvertida\bin\Debug\net8.0\StringInvertida.pdb
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\StringInvertida.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\StringInvertida.AssemblyInfoInputs.cache
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\StringInvertida.AssemblyInfo.cs
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\StringInvertida.csproj.CoreCompileInputs.cache
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\StringInvertida.dll
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\refint\StringInvertida.dll
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\StringInvertida.pdb
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\StringInvertida.genruntimeconfig.cache
+C:\dev\TargetSistemaTest\StringInvertida\obj\Debug\net8.0\ref\StringInvertida.dll

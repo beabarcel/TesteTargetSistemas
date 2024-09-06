@@ -1,0 +1,14 @@
+C:\dev\TargetSistemaTest\Soma\bin\Debug\net8.0\Soma.exe
+C:\dev\TargetSistemaTest\Soma\bin\Debug\net8.0\Soma.deps.json
+C:\dev\TargetSistemaTest\Soma\bin\Debug\net8.0\Soma.runtimeconfig.json
+C:\dev\TargetSistemaTest\Soma\bin\Debug\net8.0\Soma.dll
+C:\dev\TargetSistemaTest\Soma\bin\Debug\net8.0\Soma.pdb
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\Soma.AssemblyInfoInputs.cache
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\Soma.AssemblyInfo.cs
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\Soma.csproj.CoreCompileInputs.cache
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\Soma.dll
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\refint\Soma.dll
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\Soma.pdb
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\Soma.genruntimeconfig.cache
+C:\dev\TargetSistemaTest\Soma\obj\Debug\net8.0\ref\Soma.dll

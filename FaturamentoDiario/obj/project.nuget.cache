@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tY46u9Y8fm7W2xWbltvRF3BSXCMuiD7jIq5p8FFLGbDoyDIRkiDnzBu2IxGwNTsMMkOE3pQptIcqdDfq1u6HiQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\TargetSistemaTest\\FaturamentoDiario\\FaturamentoDiario.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\barce\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
